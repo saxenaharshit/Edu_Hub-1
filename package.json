@@ -1,0 +1,24 @@
+{
+  "name": "edu_hub",
+  "version": "1.0.0",
+  "description": "This is a directory for E learning website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanS2206/edu_hub.git"
+  },
+  "author": "Aman Akshat Akarshit Varun Harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanS2206/edu_hub/issues"
+  },
+  "homepage": "https://github.com/amanS2206/edu_hub#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
